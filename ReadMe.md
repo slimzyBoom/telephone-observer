@@ -74,7 +74,7 @@ Error: Valentine does not exist
 1. Copy the JavaScript code into a file (e.g., `telephone.js`).
 2. Run the script using Node.js:
    ```sh
-   node telephone.js
+   node main.js
    ```
 
 ## Author
